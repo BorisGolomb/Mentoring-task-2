@@ -3,3 +3,4 @@ Second commit 3
 third commit
 new branch first commit
 new branch second commit
+one more commit to be reverted
