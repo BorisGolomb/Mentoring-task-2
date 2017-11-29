@@ -2,4 +2,8 @@ First commit
 Second commit 3
 third commit
 new branch first commit
+<<<<<<< HEAD
 new branch second commit changed
+=======
+new branch second commit + conflict!
+>>>>>>> f055439ca6fe7f146d7710acb8fa94fc62f1bd62
