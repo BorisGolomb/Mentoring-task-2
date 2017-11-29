@@ -2,4 +2,4 @@ First commit
 Second commit 3
 third commit
 new branch first commit
-new branch second commit
+new branch second commit changed
